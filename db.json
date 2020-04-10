@@ -1,0 +1,32 @@
+{
+  "todo": [
+    {
+      "title": "card title",
+      "desc": "card description"
+    },
+    {
+      "title": "card title",
+      "desc": "card description"
+    }
+  ],
+  "inProgress": [
+    {
+      "title": "card title",
+      "desc": "card description"
+    },
+    {
+      "title": "card title",
+      "desc": "card description"
+    }
+  ],
+  "done": [
+    {
+      "title": "card title",
+      "desc": "card description"
+    },
+    {
+      "title": "card title",
+      "desc": "card description"
+    }
+  ]
+}
